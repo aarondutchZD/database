@@ -109,12 +109,12 @@
           "itemNo": 1,
           "productDetails": [
             {
-              "Brand": "ADIDAS",
-              "Item": "Sportswear Cap",
+              "Brand": "Funky Pigeon",
+              "Item": "The Shades of Pink Letterbox",
               "quantity": 1,
               "Size": "-",
-              "Color": "SAGE",
-              "url": "https://www.simplybe.co.uk/i/716b62130a03c23f/original/z01pm570501s.jpg?im=Resize=580&impolicy=pdp"
+              "Color": "PINK",
+              "url": "https://www.funkypigeon.com/gallery/bouquets/shades_of_pink_lb.jpg?w=600"
             }
           ]
         },
@@ -122,25 +122,12 @@
           "itemNo": 2,
           "productDetails": [
             {
-              "Brand": "Under Armour",
-              "Item": "Performance Tech Socks 3pk",
+              "Brand": "Funky Pigeon",
+              "Item": "Chocolate Macarons",
               "quantity": 1,
-              "Size": "M",
+              "Size": "Large",
               "Color": "Multi",
-              "url": "https://www.simplybe.co.uk/i/1e4efc201c743905/original/a01mo242500s.jpg?im=Resize=580&impolicy=pdp"
-            }
-          ]
-        },
-        {
-          "itemNo": 3,
-          "productDetails": [
-            {
-              "Brand": "SimplyBe",
-              "Item": "Dark Blue Slim Pull On Jegging",
-              "quantity": 1,
-              "Size": "EU S",
-              "Color": "Black",
-              "url": "https://www.simplybe.co.uk/i/5afcbe4fc94b4bf5/original/a02zy529736w.jpg?im=Resize=580&impolicy=pdp"
+              "url": "https://www.funkypigeon.com/gallery/otherproducts/235715.jpg?w=600"
             }
           ]
         }
