@@ -52,12 +52,12 @@
           "itemNo": 1,
           "productDetails": [
             {
-              "Brand": "Georgina",
-              "Item": "Touch and Close Footbed Sandals",
+              "Brand": "Funky Pigeon",
+              "Item": "The Mixed Tulips Bouquet",
               "quantity": 1,
               "Size": "S",
-              "Color": "Orange",
-              "url": "https://www.simplybe.co.uk/i/7408a88a60c70edd/original/y02od282711s.jpg?im=Resize=580&impolicy=pdp"
+              "Color": "Multi",
+              "url": "https://www.funkypigeon.com/gallery/bouquets/mixed_tulip_bouquet.jpg?w=600"
             }
           ]
         }
@@ -74,12 +74,12 @@
           "itemNo": 1,
           "productDetails": [
             {
-              "Brand": "Lush",
-              "Item": "Sticky Dates",
+              "Brand": "Funky Pigeon",
+              "Item": "From The Heart Hamper",
               "quantity": 1,
-              "Size": "3 x 100g",
-              "Color": "Multi",
-              "url": "https://www.lush.com/cdn-cgi/image/width=1920,f=auto/https://unicorn.lush.com/media/thumbnails/products/sticky_dates_gift_hero_landscape_2024_a79ac6c6_thumbnail_4096.jpg"
+              "Size": "-",
+              "Color": "-",
+              "url": "https://www.funkypigeon.com/gallery/otherproducts/231895.jpg?w=600"
             }
           ]
         },
@@ -87,12 +87,12 @@
           "itemNo": 2,
           "productDetails": [
             {
-              "Brand": "Lush",
-              "Item": "Posh Chocolate",
+              "Brand": "Funky Pigeon",
+              "Item": "Beau Bear",
               "quantity": 1,
-              "Size": "225g",
-              "Color": "Multi",
-              "url": "https://www.lush.com/cdn-cgi/image/width=1920,f=auto/https://unicorn.lush.com/media/thumbnails/products/posh_chocolate_body_wash__hero_2021_1_1ca5acd1_thumbnail_4096.jpg"
+              "Size": "Medium",
+              "Color": "Brown",
+              "url": "https://www.funkypigeon.com/gallery/otherproducts/230141.jpg?w=600"
             }
           ]
         }
