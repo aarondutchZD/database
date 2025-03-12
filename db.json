@@ -5,11 +5,11 @@
       "email": "test@zendesk.com",
       "pet_name": "scruffy",
       "favourite_food": "pasta",
-      "first_name": "Aaron",
-      "last_name": "Dutch",
+      "first_name": "John",
+      "last_name": "Taylor",
       "type": "frequent shopper",
       "credit_limit": "£2000",
-      "current_balance": "£15",
+      "current_balance": "£1500",
       "available_credit": "£500",
       "payment_due_date": "5th October",
       "minimum_payment": "£50",
@@ -52,12 +52,12 @@
           "itemNo": 1,
           "productDetails": [
             {
-              "Brand": "Funky Pigeon",
-              "Item": "The Mixed Tulips Bouquet",
+              "Brand": "Georgina",
+              "Item": "Touch and Close Footbed Sandals",
               "quantity": 1,
               "Size": "S",
-              "Color": "Multi",
-              "url": "https://www.funkypigeon.com/gallery/bouquets/mixed_tulip_bouquet.jpg?w=600"
+              "Color": "Orange",
+              "url": "https://www.simplybe.co.uk/i/7408a88a60c70edd/original/y02od282711s.jpg?im=Resize=580&impolicy=pdp"
             }
           ]
         }
@@ -74,12 +74,12 @@
           "itemNo": 1,
           "productDetails": [
             {
-              "Brand": "Funky Pigeon",
-              "Item": "From The Heart Hamper",
+              "Brand": "Lush",
+              "Item": "Sticky Dates",
               "quantity": 1,
-              "Size": "-",
-              "Color": "-",
-              "url": "https://www.funkypigeon.com/gallery/otherproducts/231895.jpg?w=600"
+              "Size": "3 x 100g",
+              "Color": "Multi",
+              "url": "https://www.lush.com/cdn-cgi/image/width=1920,f=auto/https://unicorn.lush.com/media/thumbnails/products/sticky_dates_gift_hero_landscape_2024_a79ac6c6_thumbnail_4096.jpg"
             }
           ]
         },
@@ -87,12 +87,12 @@
           "itemNo": 2,
           "productDetails": [
             {
-              "Brand": "Funky Pigeon",
-              "Item": "Beau Bear",
+              "Brand": "Lush",
+              "Item": "Posh Chocolate",
               "quantity": 1,
-              "Size": "Medium",
-              "Color": "Brown",
-              "url": "https://www.funkypigeon.com/gallery/otherproducts/230141.jpg?w=600"
+              "Size": "225g",
+              "Color": "Multi",
+              "url": "https://www.lush.com/cdn-cgi/image/width=1920,f=auto/https://unicorn.lush.com/media/thumbnails/products/posh_chocolate_body_wash__hero_2021_1_1ca5acd1_thumbnail_4096.jpg"
             }
           ]
         }
@@ -109,12 +109,12 @@
           "itemNo": 1,
           "productDetails": [
             {
-              "Brand": "Funky Pigeon",
-              "Item": "The Shades of Pink Letterbox",
+              "Brand": "PUMA",
+              "Item": "Sportswear Cap",
               "quantity": 1,
               "Size": "-",
-              "Color": "PINK",
-              "url": "https://www.funkypigeon.com/gallery/bouquets/shades_of_pink_lb.jpg?w=600"
+              "Color": "SAGE",
+              "url": "https://www.simplybe.co.uk/i/716b62130a03c23f/original/z01pm570501s.jpg?im=Resize=580&impolicy=pdp"
             }
           ]
         },
@@ -122,12 +122,25 @@
           "itemNo": 2,
           "productDetails": [
             {
-              "Brand": "Funky Pigeon",
-              "Item": "Chocolate Macarons",
+              "Brand": "Under Armour",
+              "Item": "Performance Tech Socks 3pk",
               "quantity": 1,
-              "Size": "Large",
+              "Size": "M",
               "Color": "Multi",
-              "url": "https://www.funkypigeon.com/gallery/otherproducts/235715.jpg?w=600"
+              "url": "https://www.simplybe.co.uk/i/1e4efc201c743905/original/a01mo242500s.jpg?im=Resize=580&impolicy=pdp"
+            }
+          ]
+        },
+        {
+          "itemNo": 3,
+          "productDetails": [
+            {
+              "Brand": "SimplyBe",
+              "Item": "Dark Blue Slim Pull On Jegging",
+              "quantity": 1,
+              "Size": "EU S",
+              "Color": "Black",
+              "url": "https://www.simplybe.co.uk/i/5afcbe4fc94b4bf5/original/a02zy529736w.jpg?im=Resize=580&impolicy=pdp"
             }
           ]
         }
