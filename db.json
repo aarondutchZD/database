@@ -2,11 +2,11 @@
   "accounts": [
     {
       "id": 1234567890,
-      "email": "test@zendesk.com",
+      "email": "adutchtswift@gmail.com",
       "pet_name": "scruffy",
       "favourite_food": "pasta",
-      "first_name": "John",
-      "last_name": "Taylor",
+      "first_name": "Taylor",
+      "last_name": "Swift",
       "type": "frequent shopper",
       "credit_limit": "£2000",
       "current_balance": "£15",
