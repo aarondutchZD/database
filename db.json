@@ -101,17 +101,17 @@
       "orderDate": "02-02-2025",
       "overallOrderStatus": "shipped",
       "courier": "DHL",
-      "estimatedDelDate": "15-02-2025",
+      "estimatedDelDate": "15-04-2025",
       "items": [
         {
           "itemNo": 1,
           "productDetails": [
             {
-              "Brand": "B&Q",
-              "Item": "GoodHome Caraway White Base unit",
+              "Brand": "New Look",
+              "Item": "Black Drawstring Waist Denim Mini Dress",
               "quantity": 1,
-              "Size": "1m",
-              "Color": "WHITE",
+              "Size": "10",
+              "Color": "BLACK",
               "url": "https://media2.newlookassets.com/i/newlook/919550301/womens/clothing/dresses/black-drawstring-waist-denim-mini-dress.jpg?strip=true&qlt=50&w=1400"
             }
           ]
@@ -120,12 +120,12 @@
           "itemNo": 2,
           "productDetails": [
             {
-              "Brand": "B&Q",
-              "Item": "Hemway Hybrid Polymer Sealant",
+              "Brand": "New Look",
+              "Item": "Silver Tone Diamanté Edge Circle Link Necklace",
               "quantity": 1,
-              "Size": "300ml",
-              "Color": "White",
-              "url": "https://retaildemo.site44.com/BQ/hemway-hybrid-polymer-sealant-adhesive-jet-black-waterproof-anti-mould-shower-bath-kitchen-bathroom-all-in-one-1-pack~5056203718230_01c_MP.webp"
+              "Size": "S",
+              "Color": "Silver",
+              "url": "https://media3.newlookassets.com/i/newlook/918473992/womens/accessories/jewellery/silver-tone-diamante-edge-circle-link-necklace.jpg?strip=true&qlt=50&w=1400"
             }
           ]
         },
@@ -133,12 +133,12 @@
           "itemNo": 3,
           "productDetails": [
             {
-              "Brand": "B&Q",
-              "Item": "Dulux Walls & Ceilings Pure Brilliant White Matt Emulsion",
+              "Brand": "New Look",
+              "Item": "Silver Tone Chunky Rib Bangle",
               "quantity": 1,
-              "Size": "10L",
-              "Color": "Pure Brilliant White",
-              "url": "https://www.therange.co.uk/media/8/0/1470411248_803.jpg"
+              "Size": "-",
+              "Color": "Silver",
+              "url": "https://media3.newlookassets.com/i/newlook/918456492M1/womens/accessories/jewellery/silver-tone-chunky-rib-bangle.jpg?strip=true&qlt=50&w=1400"
             }
           ]
         }
