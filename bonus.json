@@ -1,22 +1,9 @@
 {
   "accounts": [
     {
-      "id": 1234567890,
-      "email": "adutchtswift@gmail.com",
-      "pet_name": "scruffy",
-      "favourite_food": "pasta",
-      "first_name": "Taylor",
-      "last_name": "Swift",
-      "type": "frequent shopper",
-      "credit_limit": "£2000",
-      "current_balance": "£15",
-      "available_credit": "£500",
-      "payment_due_date": "5th October",
-      "minimum_payment": "£50",
-      "transactions": [
-        {
-          "status": "success",
-          "value": "£25.99"
-        }
-      ]
-    },
+      "id": 12345,
+      "date": "10th July",
+      "amount": "35",
+      "currency": "gbp"
+    }
+  }
