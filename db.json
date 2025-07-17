@@ -1,12 +1,4 @@
 {
-  "bonus": [
-    {
-      "id": 12345,
-      "date": "10th July",
-      "amount": "35",
-      "currency": "gbp"
-    }
-  ],
   "accounts": [
     {
       "id": 1234567890,
@@ -154,3 +146,5 @@
     }
   ]
 }
+
+
