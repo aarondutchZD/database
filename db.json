@@ -3,7 +3,10 @@
       {
         "id": 1000000000,
         "email": "adutchdcraig@gmail.com",
-        "model": "Superb"
+        "make": "Aston Martin",
+        "model": "DBS",
+        "registration": "JB DB007"
+        "year": "2025"
       }
     ],
     "bonus": [
