@@ -1,12 +1,6 @@
 {
     "cars": [
       {
-        "id": 12345,
-        "date": "10th July",
-        "amount": "35",
-        "currency": "gbp"
-      },
-      {
         "id": 1000000000,
         "email": "adutchdcraig@gmail.com",
         "model": "Superb"
