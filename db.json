@@ -157,7 +157,7 @@
     },
     {
       "orderNumber": "ORD-123456",
-      "price": 45.50,
+      "price": "45.50",
       "date": "2025-12-09",
       "time": "18:20",
       "customer_name": "Alice Smith",
