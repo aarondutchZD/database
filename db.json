@@ -156,36 +156,16 @@
       ]
     },
     {
-      "order_id": "ORD-123456",
-      "order_amount_gbp": 45.50,
-      "date_of_order": "2025-12-09",
-      "time_of_order": "18:20",
-      "customer": {
-        "customer_name": "Alice Smith",
-        "customer_email": "alice.smith@example.com"
-      },
-      "restaurant": {
-        "name": "The Italian Spot",
-        "address": "14 Brick Lane, London, E1 6PU",
-        "email_address": "info@italian-spot.co.uk",
-        "phone_number": "+44 20 1234 5678"
-      }
-    },
-    {
-      "order_id": "ORD-20251209-1002",
-      "order_amount_gbp": 22.99,
-      "date_of_order": "2025-12-09",
-      "time_of_order": "18:40",
-      "customer": {
-        "customer_name": "Bob Johnson",
-        "customer_email": "bob.johnson@example.com"
-      },
-      "restaurant": {
-        "name": "Curry Palace",
-        "address": "7 High Street, Manchester, M1 1AY",
-        "email_address": "contact@currypalace.com",
-        "phone_number": "+44 161 987 6543"
-      }
+      "orderNumber": "ORD-123456",
+      "price": 45.50,
+      "date": "2025-12-09",
+      "time": "18:20",
+      "customer_name": "Alice Smith",
+      "customer_email": "alice.smith@example.com",
+      "restaurant": "The Italian Spot",
+      "address": "14 Brick Lane, London, E1 6PU",
+      "email_address": "info@italian-spot.co.uk",
+      "phone_number": "+44 20 1234 5678"
     },
     {
       "orderNumber": 54321,
